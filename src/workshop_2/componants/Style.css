@@ -1,0 +1,19 @@
+a {
+   font-family: comic sans ms;
+   font-size:x-large;
+   font-weight: bold;
+  }
+
+  li {
+   font-size:x-large; 
+  } 
+  
+  p{
+   font-weight: bold;
+  }
+
+  h4{
+    padding: 4px;
+    background: grey;
+     text-align:  center;
+  }
